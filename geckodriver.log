@@ -1,0 +1,12 @@
+1623568633318	geckodriver	INFO	Listening on 127.0.0.1:50538
+1623568636386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileHhLUDo"
+1623568637108	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileHhLUDo\\search.json.mozlz4", (void 0)))
+1623568640624	Marionette	INFO	Listening on port 50546
+1623568640688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623568641769	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeError: browser is null
+1623588460420	Marionette	INFO	Stopped listening on port 50546
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

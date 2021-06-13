@@ -12,5 +12,6 @@ thumbnail_element = browser.find_elements_by_id("thumbnail")
 first = thumbnail_element[0]
 first.send_keys(Keys.RETURN)
 
-views = browser.find_elements_by_tag_name(" views")
+views = browser.find_elements_by_name(" views")
 print(views)
+browser.quit()
