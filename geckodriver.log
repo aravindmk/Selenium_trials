@@ -10,3 +10,168 @@ JavaScript error: resource://gre/actors/AudioPlaybackParent.jsm, line 24: TypeEr
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1623599147349	geckodriver	INFO	Listening on 127.0.0.1:57438
+1623599150395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileqe1sCm"
+1623599152550	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileqe1sCm\\search.json.mozlz4", (void 0)))
+1623599158354	Marionette	INFO	Listening on port 57446
+1623599158503	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623599161763	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623599495215	Marionette	INFO	Stopped listening on port 57446
+3599287768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileK68VuI"
+1623599289248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileK68VuI\\search.json.mozlz4", (void 0)))
+1623599295205	Marionette	INFO	Listening on port 57629
+1623599295385	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623599296815	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623599299778	Marionette	INFO	Stopped listening on port 57629
+JavaScript error: chrome://global/content/elements/browser-custom-element.js, line 1716: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+[Child 6664, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623599488016	geckodriver	INFO	Listening on 127.0.0.1:57730
+1623599491071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofile1w7PQG"
+1623599492379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofile1w7PQG\\search.json.mozlz4", (void 0)))
+1623599498373	Marionette	INFO	Listening on port 57739
+1623599498587	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623599501459	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623599502559	Marionette	INFO	Stopped listening on port 57739
+1623599524145	geckodriver	INFO	Listening on 127.0.0.1:57813
+1623599527210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofile9ZqR2x"
+1623599530394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofile9ZqR2x\\search.json.mozlz4", (void 0)))
+1623599535076	Marionette	INFO	Listening on port 57821
+1623599535225	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623599538100	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623599539305	Marionette	INFO	Stopped listening on port 57821
+[Parent 2396, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1623599606948	geckodriver	INFO	Listening on 127.0.0.1:57894
+1623599609983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofilefbhIBI"
+1623599610794	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofilefbhIBI\\search.json.mozlz4", (void 0)))
+1623599615628	Marionette	INFO	Listening on port 57906
+1623599615893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623599619036	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623599620041	Marionette	INFO	Stopped listening on port 57906
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 596: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1623599637964	geckodriver	INFO	Listening on 127.0.0.1:57979
+1623599641029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileAjFjfq"
+1623599641840	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileAjFjfq\\search.json.mozlz4", (void 0)))
+1623599646381	Marionette	INFO	Listening on port 57991
+1623599646897	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623599650130	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623599661073	Marionette	INFO	Stopped listening on port 57991
+1623599836158	geckodriver	INFO	Listening on 127.0.0.1:58085
+1623599839182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofile0rx9JN"
+1623599839905	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofile0rx9JN\\search.json.mozlz4", (void 0)))
+1623599844331	Marionette	INFO	Listening on port 58094
+1623599844522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623599846240	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623599858641	Marionette	INFO	Stopped listening on port 58094
+1623599864992	geckodriver	INFO	Listening on 127.0.0.1:58161
+1623599868073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileb16Qa2"
+1623599868790	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileb16Qa2\\search.json.mozlz4", (void 0)))
+1623599873154	Marionette	INFO	Listening on port 58169
+1623599873471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623599876320	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623599876948	Marionette	INFO	Stopped listening on port 58169
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\aravi\AppData\Local\Temp\rust_mozprofileb16Qa2\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623599885742	geckodriver	INFO	Listening on 127.0.0.1:58239
+1623599888801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileP5yyiy"
+1623599889474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileP5yyiy\\search.json.mozlz4", (void 0)))
+1623599893730	Marionette	INFO	Listening on port 58247
+1623599894154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623599896912	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623599933381	Marionette	INFO	Stopped listening on port 58247
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623600065886	geckodriver	INFO	Listening on 127.0.0.1:58335
+1623600068961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileRryqRd"
+1623600069643	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileRryqRd\\search.json.mozlz4", (void 0)))
+1623600074183	Marionette	INFO	Listening on port 58343
+1623600074288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623600077879	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623600098484	Marionette	INFO	Stopped listening on port 58343
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623600109878	geckodriver	INFO	Listening on 127.0.0.1:58413
+1623600112925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileQPcedj"
+1623600115328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileQPcedj\\search.json.mozlz4", (void 0)))
+1623600122734	Marionette	INFO	Listening on port 58421
+1623600124296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623600127240	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 5476, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1623600497316	Marionette	INFO	Stopped listening on port 58421
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623600499426	geckodriver	INFO	Listening on 127.0.0.1:58531
+1623600502443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileUWzpKg"
+1623600503252	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileUWzpKg\\search.json.mozlz4", (void 0)))
+1623600507857	Marionette	INFO	Listening on port 58539
+1623600508293	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623600509838	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623600569768	Marionette	INFO	Stopped listening on port 58539
+3600567747	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofilefPyaWa"
+1623600568813	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofilefPyaWa\\search.json.mozlz4", (void 0)))
+1623600573716	Marionette	INFO	Listening on port 58632
+1623600574125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623600577355	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623600592577	Marionette	INFO	Stopped listening on port 58631623600593731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileOpFHbr"
+1623600599443	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileOpFHbr\\search.json.mozlz4", (void 0)))
+1623600603835	Marionette	INFO	Listening on port 58708
+1623600603965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623600605676	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623600740018	Marionette	INFO	Stopped listening on port 58701623600741756	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileSCBl1s"
+1623600743985	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileSCBl1s\\search.json.mozlz4", (void 0)))
+1623600748448	Marionette	INFO	Listening on port 58803
+1623600748757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623600750097	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623600808898	Marionette	INFO	Stopped listening on port 58801623600810121	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileGaNPOU"
+1623600810828	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileGaNPOU\\search.json.mozlz4", (void 0)))
+1623600815344	Marionette	INFO	Listening on port 58892
+1623600815533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623600816573	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Parent 13264, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1623601007418	Marionette	INFO	Stopped listening on port 58891623601007961	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofilev5PEjd"
+1623601011282	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofilev5PEjd\\search.json.mozlz4", (void 0)))
+1623601015682	Marionette	INFO	Listening on port 58994
+1623601015941	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623601019170	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623601058447	Marionette	INFO	Stopped listening on port 58991623601058931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileStJQWw"
+1623601059650	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofileStJQWw\\search.json.mozlz4", (void 0)))
+1623601063937	Marionette	INFO	Listening on port 59077
+1623601064277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623601067321	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623601086588	Marionette	INFO	Stopped listening on port 59077
+3601084962	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofilexDGMSv"
+1623601085600	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\aravi\\AppData\\Local\\Temp\\rust_mozprofilexDGMSv\\search.json.mozlz4", (void 0)))
+1623601090587	Marionette	INFO	Listening on port 59157
+1623601090824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623601093802	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1623601176275	Marionette	INFO	Stopped listening on port 59157
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
